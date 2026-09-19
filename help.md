@@ -2,5 +2,7 @@
 i
 Well this is the change
 :wq
-git conflict
+i
+that's another change
+
 
